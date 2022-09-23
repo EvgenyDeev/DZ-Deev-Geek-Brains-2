@@ -6,5 +6,5 @@
 
 Console.Clear();
 Console.WriteLine("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(n % 100);
+string? n = Convert.ToString(Console.ReadLine());
+Console.WriteLine(n[n.Length - 2]);
