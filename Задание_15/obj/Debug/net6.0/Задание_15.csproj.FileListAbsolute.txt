@@ -1,0 +1,15 @@
+E:\DZ Deev Geek Brains 2\Задание_15\bin\Debug\net6.0\Задание_15.exe
+E:\DZ Deev Geek Brains 2\Задание_15\bin\Debug\net6.0\Задание_15.deps.json
+E:\DZ Deev Geek Brains 2\Задание_15\bin\Debug\net6.0\Задание_15.runtimeconfig.json
+E:\DZ Deev Geek Brains 2\Задание_15\bin\Debug\net6.0\Задание_15.dll
+E:\DZ Deev Geek Brains 2\Задание_15\bin\Debug\net6.0\Задание_15.pdb
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.csproj.AssemblyReference.cache
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.AssemblyInfoInputs.cache
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.AssemblyInfo.cs
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.csproj.CoreCompileInputs.cache
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.dll
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\refint\Задание_15.dll
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.pdb
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\Задание_15.genruntimeconfig.cache
+E:\DZ Deev Geek Brains 2\Задание_15\obj\Debug\net6.0\ref\Задание_15.dll
